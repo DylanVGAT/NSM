@@ -1,0 +1,27 @@
+2D Cute platform Sprites:
+Last update: November 18, 2023
+
+By: AxulArt
+https://axulart.itch.io/2d-cute-platform-sprites
+https://axulart.tumblr.com/
+
+Includes:
+    Tile set for a 2D Platform Game
+    Tile set for over world
+    Player's characters sprites (Girl, Boy and Template)
+    Enemies sprites
+    Pixel font & collectable items
+
+This was added and changed in the last update:
+    Changed the color and transparency of some tiles
+    the colors of the blue and green golem were reversed
+    The other overworld enemies were added: (golems, slime, bunny, lizard, stone sun and snail)
+
+Note: You can flip, some of the over world characters, to make the illusion of moving animation (like Final Fantasy 4 sprites).
+
+LICENSE: This asset pack can be used in both free and commercial projects. You can modify it to suit your own needs, as long as you give appropriate credit.
+
+Creative Commons License:
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Thank you for download this game-asset & God Bless you :D
